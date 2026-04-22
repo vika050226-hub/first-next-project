@@ -1,0 +1,6 @@
+nav * {
+  display: inline-block;
+  font-family: Arial;
+  font-size: 24px;
+  color: gray;
+}
